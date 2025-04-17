@@ -1,5 +1,7 @@
 # 🎮 Steam Account Switcher — baston.dev
 
+![Preview](https://raw.githubusercontent.com/bastontheking/steam-account-switcher/refs/heads/main/SS.png)
+
 A lightweight and fast GUI written in **C++ with ImGui + DirectX11** to switch between multiple Steam accounts in a single click.
 
 Perfect for users managing several Steam accounts for **CS2**, **Dota 2**, or any other game on the platform.
